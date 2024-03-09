@@ -1,0 +1,17 @@
+
+
+**Database Name: shouserental**
+
+**Developed by III CSE-A Batch-24**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+
+
+
+
